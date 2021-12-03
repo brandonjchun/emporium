@@ -11,8 +11,8 @@ import Products from './components/Products';
 import { albumData, recommendedArtists } from './components/Products/data';
 import Feature from './components/Feature';
 import Footer from './components/Footer';
-import Home from './components/Pages/Home/home';
-import Rashad from './components/Pages/Rashad/rashad';
+import Home from './components/Pages/Home';
+import Rashad from './components/Pages/Rashad';
 
 
 
